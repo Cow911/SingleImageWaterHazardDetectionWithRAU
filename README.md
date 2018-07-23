@@ -1,8 +1,5 @@
 # SingleImageWaterHazardDetectionWithRAU
 Single Image Water Hazard Detection using FCN with Reflection Attention Units
-This is the reference for the FCN-RAU of our paper:
-
-Single Image Water Hazard Detection using FCN with Reflection Attention Units
 Xiaofeng Han, Chuong Nguyen, Shaodi You, Jianfeng Lu
 ECCV 2018
 
