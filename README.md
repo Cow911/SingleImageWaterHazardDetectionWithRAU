@@ -1,6 +1,6 @@
 # SingleImageWaterHazardDetectionWithRAU
 Single Image Water Hazard Detection using FCN with Reflection Attention Units
-<br> Xiaofeng Han 1, Chuong Nguyen 234, Shaodi You 23, Jianfeng Lu 1
+<br> Xiaofeng Han <sup>1</sup>, Chuong Nguyen 234, Shaodi You 23, Jianfeng Lu 1
 <bt> 1 School of Computer Science and Engineering, Nanjing University of Science and Technology
 <bt> 2 Australian National University
 <bt> 3 CSIRO DATA61, Australia
