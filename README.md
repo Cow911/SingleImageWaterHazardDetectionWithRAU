@@ -1,10 +1,10 @@
 # SingleImageWaterHazardDetectionWithRAU
 Single Image Water Hazard Detection using FCN with Reflection Attention Units
-<br> Xiaofeng Han <sup>1</sup>, Chuong Nguyen 234, Shaodi You 23, Jianfeng Lu 1
-<bt> 1 School of Computer Science and Engineering, Nanjing University of Science and Technology
-<bt> 2 Australian National University
-<bt> 3 CSIRO DATA61, Australia
-<bt> 4 Australian Centre of Excellence for Robotic Vision
+<br> Xiaofeng Han <sup>1</sup>, Chuong Nguyen <sup>234</sup>, Shaodi You <sup>23</sup>, Jianfeng Lu <sup>1</sup>
+<bt> <sup>1</sup>School of Computer Science and Engineering, Nanjing University of Science and Technology
+<bt> <sup>2</sup>Australian National University
+<bt> <sup>3</sup>CSIRO DATA61, Australia
+<bt> <sup>4</sup>Australian Centre of Excellence for Robotic Vision
 <br> ECCV 2018
 
 This is a work in progress and the codes are coming soon.
