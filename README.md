@@ -9,13 +9,14 @@ Single Image Water Hazard Detection using FCN with Reflection Attention Units
 
 This is a work in progress and the codes are coming soon.
 ## our paper
-<br>The paper can be downloaded here: [Single Image Water Hazard Detection using FCN with Reflection Attention Units](https://cloudstor.aarnet.edu.au/sender/download.php?token=f7fe4dfc-4401-a50e-79d8-02bfe704639a&files_ids=3603632)
+<br>The paper can be downloaded here: [Single Image Water Hazard Detection using FCN with Reflection Attention Units](https://cloudstor.aarnet.edu.au/plus/s/EcaYrX6Guwm6JuV)
 
 ## demo videos
 The demo videos can be downloaded here:
-<br> [OFF ROAD](https://cloudstor.aarnet.edu.au/sender/download.php?token=eb193476-5adb-7c5a-0e03-c69e94414f1e&files_ids=3552872)
-<br> [ON ROAD PART 1](https://cloudstor.aarnet.edu.au/sender/download.php?token=eb193476-5adb-7c5a-0e03-c69e94414f1e&files_ids=3552873), [ON ROAD PART 2](https://cloudstor.aarnet.edu.au/sender/download.php?token=eb193476-5adb-7c5a-0e03-c69e94414f1e&files_ids=3552882), [ON ROAD PART 3](https://cloudstor.aarnet.edu.au/sender/download.php?token=eb193476-5adb-7c5a-0e03-c69e94414f1e&files_ids=3552892)
+<br> [ECCV DEMO video](https://cloudstor.aarnet.edu.au/plus/s/l8XORlMlU7iEvbU)
+<br> [OFF ROAD](https://youtu.be/SHuulq2lfEQ)
+<br> [ON ROAD](https://youtu.be/OUNk8yBdaMg)
 
 ## "Puddle-1000" dataset
 The dataset used in our paper can be downloaded here:
-<br>[Puddle-1000](https://cloudstor.aarnet.edu.au/sender/download.php?token=a2f853e5-68e5-2093-d660-c8352d10f30d&files_ids=3603623)
+<br>[Puddle-1000](https://cloudstor.aarnet.edu.au/plus/s/oSeR8zogqzaXN6X)
