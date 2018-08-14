@@ -10,7 +10,7 @@ Single Image Water Hazard Detection using FCN with Reflection Attention Units
 This is a work in progress and the final codes are coming soon.
 ## Water Hazard Detection
 The figure below shows one result of water hazard detection. In this figure, the red areas are the water areas.
- ![image](https://github.com/Cow911/SingleImageWaterHazardDetectionWithRAU/vim-screenshot.jpg)
+ ![image](https://github.com/Cow911/SingleImageWaterHazardDetectionWithRAU/color_res_000014.png)
 
 ## our paper
 <br>The paper can be downloaded here: [Single Image Water Hazard Detection using FCN with Reflection Attention Units](https://cloudstor.aarnet.edu.au/plus/s/EcaYrX6Guwm6JuV)
