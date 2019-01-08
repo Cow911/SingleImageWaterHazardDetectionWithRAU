@@ -30,3 +30,6 @@ The demo videos can be downloaded here:
 ## "Puddle-1000" dataset
 The dataset used in our paper can be downloaded here:
 <br>[Puddle-1000](https://cloudstor.aarnet.edu.au/plus/s/oSeR8zogqzaXN6X)
+
+
+The codes are modified based on this project: https://github.com/shekkizh/FCN.tensorflow, and we'd like to thank the authors very much.
