@@ -195,14 +195,14 @@ def inference(image, keep_prob):
 
         relu_dropout6 = tf.nn.dropout(relu6, keep_prob=keep_prob)
 
-        W7 = utils.weight_variable([7, 7, 4096, 4096], name="W7")
+        W7 = utils.weight_variable([1, 1, 4096, 4096], name="W7")
         b7 = utils.bias_variable([4096], name="b7")
         conv7 = utils.conv2d_basic(relu_dropout6, W7, b7)
         relu7 = tf.nn.relu(conv7, name="relu7")
 
         relu_dropout7 = tf.nn.dropout(relu7, keep_prob=keep_prob)
 
-        W8 = utils.weight_variable([7, 7, 4096, NUM_OF_CLASSESS], name="W8")            #in our case num_of_classess = 2 : road, non-road
+        W8 = utils.weight_variable([1, 1, 4096, NUM_OF_CLASSESS], name="W8")            #in our case num_of_classess = 2 : road, non-road
         b8 = utils.bias_variable([NUM_OF_CLASSESS], name="b8")
         conv8 = utils.conv2d_basic(relu_dropout7, W8, b8)
 
